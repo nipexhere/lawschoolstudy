@@ -1,0 +1,18 @@
+[theme]
+base = "light"
+primaryColor = "#28624D"
+backgroundColor = "#F7F8F5"
+secondaryBackgroundColor = "#E9EFEB"
+textColor = "#25312D"
+borderColor = "#D2DDD5"
+baseRadius = "small"
+buttonRadius = "small"
+font = "sans-serif"
+headingFont = "'DM Sans':https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap"
+chartCategoricalColors = ["#28624D", "#B86C54", "#C69A36", "#52769A", "#806B88"]
+
+[theme.sidebar]
+backgroundColor = "#E9EFEB"
+secondaryBackgroundColor = "#DDE7DF"
+textColor = "#25312D"
+primaryColor = "#28624D"

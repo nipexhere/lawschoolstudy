@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.env
+.streamlit/secrets.toml
+focus-ledger-*.csv
+study-log-*.csv
+casebook-*.json
