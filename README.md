@@ -2,6 +2,8 @@
 
 **A focused study workspace for Nigerian Law School.** Casebook Studio helps students turn assigned cases and class notes into a searchable, course-organized casebook, practice recalling each case before revealing their notes, and build a steady study routine across a demanding term.
 
+**Live app:** [Open Casebook Studio](https://lawschoolstudy-ei6fbpgyoszn9p4wuxmvbi.streamlit.app/)
+
 The problem it addresses is familiar: case notes end up scattered across notebooks and documents, rules blur together between courses, and rereading can feel productive without showing what you can actually recall. Casebook Studio gives each case a consistent brief structure, makes those notes searchable, and adds an active-recall step before review. A weekly study log helps students see how they are using their time.
 
 ## Study workflow
